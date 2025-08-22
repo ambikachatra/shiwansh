@@ -8,3 +8,7 @@
 # Then git remote set origin “repo url”
 # Then git push origin main.
 
+
+Creating Inventory file (inventory.ini)
+
+
