@@ -10,7 +10,9 @@
 
 
 1. Creating Inventory file (inventory.ini):
+                                                                                         
 [remote_host]
 54.144.158.82 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ambikac/Downloads/anamika.pem
+
 
 
